@@ -1,14 +1,13 @@
 import React, {Component} from 'react';
-import AllPosts from "./AllPosts";
 
-class App extends Component {
+class AllPosts extends Component {
     render() {
         return (
             <div>
-                <AllPosts/>
+                
             </div>
         );
     }
 }
 
-export default App;
+export default AllPosts;
